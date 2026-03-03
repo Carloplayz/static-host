@@ -1,4 +1,4 @@
-@@||1337x.to^
-@@||bitsearch.to^
+@@||1337x.to^$important
+@@||bitsearch.to^$important
 1337x.to
 bitsearch.to
