@@ -1,3 +1,4 @@
 @@||1337x.to^$important
 @@||bitsearch.to^$important
 @@||aniwatchtv.to^$important
+@@||log.tailscale.com^$important
